@@ -1,0 +1,16 @@
+logic\Calc.class
+presentation\RegistrationCommand.class
+presentation\ShowCustomerCommand.class
+presentation\Command.class
+presentation\MainPageCommand.class
+presentation\Command$1.class
+logic\DBConnector.class
+presentation\OrderCommand.class
+presentation\SetSendtCommand.class
+presentation\FinalizeCommand.class
+data\User.class
+logic\DataException.class
+presentation\FrontController.class
+presentation\UnknownCommand.class
+presentation\LoginCommand.class
+data\LegoHouseDAO.class
